@@ -1,0 +1,1 @@
+{'Train Fraud Ratio': np.float64(0.001729245759178389), 'Test Fraud Ratio': np.float64(0.0017204452090867595), 'Stratified': True}

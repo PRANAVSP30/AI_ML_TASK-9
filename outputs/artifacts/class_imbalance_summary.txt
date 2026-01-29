@@ -1,0 +1,1 @@
+{'Non-Fraud Count': 284315, 'Fraud Count': 492, 'Fraud Percentage': np.float64(0.1727), 'Key Insight': 'Extreme class imbalance; accuracy is misleading'}

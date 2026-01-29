@@ -1,0 +1,1 @@
+{'Baseline Model': 'Logistic Regression', 'Random Forest Used': True, 'Why RF Better': 'Captures non-linear fraud patterns & improves recall'}
